@@ -2,6 +2,9 @@
 
 This project demonstrates an advanced implementation of **Generative AI** for business automation. It moves beyond simple sentiment classification by utilizing AI to prescribe specific customer recovery actions and personalized responses, aligning with the **IBM Applied Data Science** curriculum (Course 11: Generative AI).
 
+<img width="1874" height="924" alt="preview" src="https://github.com/user-attachments/assets/0554ef5a-22cd-40d4-b6ef-8982a255e411" />
+
+
 ## 🏗️ Technical Architecture
 The system is built on a modular three-phase pipeline to ensure high cohesion and low coupling:
 
