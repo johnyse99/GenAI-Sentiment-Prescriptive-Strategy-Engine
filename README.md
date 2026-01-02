@@ -36,8 +36,8 @@ A: In an industrial dashboard, re-calculating NLP scores or calling GenAI APIs o
 
 ---
 
-📄 **Licencia**
-Este proyecto se distribuye bajo la licencia MIT. Su propósito es estrictamente educativo y de investigación, desarrollado como una solución de Data Science Aplicada.
+📄 **License**
+This project is distributed under the MIT license. Its purpose is strictly educational and research-based, developed as an Applied Data Science solution.
 
 **Nota para reclutadores:**
 This project highlights the transition from traditional Machine Learning to **Generative AI Applications**. It showcases the ability to design an end-to-end automated workflow where AI makes autonomous business decisions based on textual data, a key requirement for modern AI Architect roles.
