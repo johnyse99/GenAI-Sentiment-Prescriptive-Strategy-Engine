@@ -44,3 +44,5 @@ This project is distributed under the MIT license. Its purpose is strictly educa
 
 **Note for recruiters:**
 This project highlights the transition from traditional Machine Learning to **Generative AI Applications**. It showcases the ability to design an end-to-end automated workflow where AI makes autonomous business decisions based on textual data, a key requirement for modern AI Architect roles.
+
+Autor: JUAN S.  Contacto: https://github.com/johnyse99
