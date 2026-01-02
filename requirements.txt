@@ -1,0 +1,17 @@
+# Web Interface
+streamlit
+
+# Data Manipulation
+pandas
+numpy
+
+# NLP & Machine Learning
+textblob
+scikit-learn
+
+# Data Validation & Logic
+pydantic
+python-dotenv
+
+# Visualization
+matplotlib
